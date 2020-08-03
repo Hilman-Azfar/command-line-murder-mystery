@@ -1,0 +1,41 @@
+  470  ls
+  471  cd wdi
+  472  ls
+  473  cd terminal-murder/
+  474  cd command-line-murder-mystery/
+  475  ls
+  476  cat instructions
+  477  ls
+  478  open cheatsheet.pdf
+  479  cd mystery/
+  480  ls
+  481  grep CLUE crimescene
+  482  grep -i annabel people
+  484  cd streets/
+  485  head -n 40 Hart* streets/ | tail -1
+  486  cd ../interviews/
+  487  cat interview-47246024
+  488  cd ../streets/
+  491  head -n 179 Buckingham* | tail -1
+  492  cd ../interviews/
+  494  cat interview-699607
+  495  cd ..
+  496  ls
+  497  head -n 1 vehicles
+  498  head vehicles
+  503  ls
+  504  cd ..
+  505  ls
+  506  grep -A 5 "L337..9" vehicles | grep -A 4 "Honda" | grep -A 3 "Blue" | grep -C 1 "6..."
+  507  grep "Erika Owens" people
+  508  grep "Joe Germuska" people
+  509  grep "Jeremy Bowers" people
+  510  grep "Jacqui Maher" people
+  511  grep -l "Joe Germuska" memberships/*
+  512  grep -l "Jeremy Bowers" memberships/*
+  514  cd streets/
+  515  ls
+  516  head -n 284 Dunstable_Road | tail -1
+  517  cd ../interviews/
+  518  cat interview-9620713
+  519  history
